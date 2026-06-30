@@ -45,6 +45,7 @@ Frontend Developer building modern web apps with React & Next.js
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,git,github,figma,postman)](https://skillicons.dev)
+
 **Also familiar with**
 - Zustand  
 - TanStack Query  
