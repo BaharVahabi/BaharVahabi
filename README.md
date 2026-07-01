@@ -49,8 +49,7 @@ Frontend Developer building modern web apps with React & Next.js
 **Also familiar with**
 - Zustand  
 - TanStack Query  
-- React Router  
-- Editor.js  
+- React Router   
 - REST APIs  
 <br/>
 
