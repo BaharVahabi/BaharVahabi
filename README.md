@@ -25,7 +25,7 @@ Frontend Developer building modern web apps with React & Next.js
 
 - 🎓 **[Scientific Association Website](https://scsa.ir)** ([repo](https://github.com/Sari-IAU/computer-engineering-community)) — Official website of the university's scientific association, built with React, TypeScript & Vite, deployed on GitHub Pages with a custom domain
 - 🏠 **[Real Estate Platform](https://github.com/next-winter-1404/nova)**  — A real estate listing platform built with Next.js & TypeScript
-- 📚 **[Programming Courses Platform](https://nova-delta-flax.vercel.app/)** ([repo](https://github.com/next-winter-1404/nova) ) — An online course-selling platform built with React
+- 📚 **[Programming Courses Platform](https://nova-delta-flax.vercel.app/)** ([repo](https://github.com/react-summer-1404/Nova) ) — An online course-selling platform built with React
 
 <br/>
 
