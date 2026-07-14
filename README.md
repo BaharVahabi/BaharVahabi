@@ -54,6 +54,16 @@ Frontend Developer building modern web apps with React & Next.js
 <br/>
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=BaharVahabi&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="left">
+  
+  ![](https://streak-stats.demolab.com/?user=BaharVahabi&theme=one_dark_pro&hide_border=true)<br/>
+  
+![](https://github-readme-stats.shion.dev/api?username=BaharVahabi&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+
+
+
+</div>
+
+
+
