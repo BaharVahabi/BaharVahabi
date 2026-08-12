@@ -40,6 +40,11 @@ Frontend Developer building modern web apps with React & Next.js
 <a href="mailto:bahar.vhbii@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
+
+  <a href="https://www.linkedin.com/in/bahar-vahabi">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
 </p>
 <br/>
 
