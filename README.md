@@ -20,7 +20,9 @@ Frontend Developer building modern web apps with React & Next.js
 - 📫 Reach me at **bahar.vhbii@gmail.com**
 
 <br/>
-## 💼 Open For
+
+<br/>
+##💼 Open For
 
 I'm currently open to new opportunities and collaborations in **Frontend Development**.
 
