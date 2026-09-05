@@ -20,7 +20,19 @@ Frontend Developer building modern web apps with React & Next.js
 - 📫 Reach me at **bahar.vhbii@gmail.com**
 
 <br/>
+## 💼 Open For
 
+I'm currently open to new opportunities and collaborations in **Frontend Development**.
+
+* 💻 **Frontend Developer Roles** — Full-time or remote opportunities
+* 🚀 **Freelance Projects** — Building modern and responsive web applications
+* 🤝 **Open Source Collaboration** — Contributing to meaningful frontend projects
+* 🌱 **Learning & Collaboration** — Working with developers and teams to build great products
+
+I'm especially interested in working with **React, Next.js, TypeScript, and modern frontend technologies**.
+
+Feel free to reach out if you think we could build something great together! ✨
+<br/>
 ## 🚀 Featured Projects
 
 - 🎓 **[Scientific Association Website](https://scsa.ir)** ([repo](https://github.com/Sari-IAU/computer-engineering-community)) — Official website of the university's scientific association, built with React, TypeScript & Vite, deployed on GitHub Pages with a custom domain
