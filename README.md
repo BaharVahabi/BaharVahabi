@@ -22,7 +22,7 @@ Frontend Developer building modern web apps with React & Next.js
 <br/>
 
 
-##💼 Open For
+## 💼 Open For
 
 I'm currently open to new opportunities and collaborations in **Frontend Development**.
 
