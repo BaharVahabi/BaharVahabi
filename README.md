@@ -34,7 +34,9 @@ I'm currently open to new opportunities and collaborations in **Frontend Develop
 I'm especially interested in working with **React, Next.js, TypeScript, and modern frontend technologies**.
 
 Feel free to reach out if you think we could build something great together! ✨
+
 <br/>
+
 ## 🚀 Featured Projects
 
 - 🎓 **[Scientific Association Website](https://scsa.ir)** ([repo](https://github.com/Sari-IAU/computer-engineering-community)) — Official website of the university's scientific association, built with React, TypeScript & Vite, deployed on GitHub Pages with a custom domain
