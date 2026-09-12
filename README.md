@@ -61,6 +61,10 @@ Feel free to reach out if you think we could build something great together! ✨
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+<a href="https://discord.com/users/bdev374" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+</a>
+
 </p>
 <br/>
 
